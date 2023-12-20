@@ -294,4 +294,8 @@ while playing:
   displayPlayers()
   
   pygame.display.update()
+<<<<<<< HEAD
   clock.tick(60)
+=======
+  clock.tick(60)
+>>>>>>> d341093790cec12d778bbbe67c81e57367373f53
